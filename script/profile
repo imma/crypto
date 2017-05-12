@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+function _crypto_profile {
+  local shome="${_crypto_home:-"$(cd -P -- "${BASH_SOURCE%/*}/.." && pwd -P)"}"
+  PATH="$shome/bin:$shome/exec:$PATH"
+}
+
+_crypto_profile
