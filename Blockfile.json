@@ -1,4 +1,7 @@
 {
   "require": [
+    "gpg",
+    "git-crypt",
+    "cfssl"
   ]
 }
