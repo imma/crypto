@@ -4,6 +4,7 @@
     "git-crypt",
     "cfssl",
     "lastpass",
-    "credstash"
+    "credstash",
+    "vault"
   ]
 }
