@@ -2,6 +2,8 @@
   "require": [
     "gpg",
     "git-crypt",
-    "cfssl"
+    "cfssl",
+    "lastpass",
+    "credstash"
   ]
 }
