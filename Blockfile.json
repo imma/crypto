@@ -5,6 +5,7 @@
     "cfssl",
     "lastpass",
     "credstash",
-    "vault"
+    "vault",
+    "getssl"
   ]
 }
