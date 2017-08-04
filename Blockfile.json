@@ -3,7 +3,6 @@
     "gpg",
     "git-crypt",
     "cfssl",
-    "lastpass",
     "credstash",
     "vault",
     "getssl"
