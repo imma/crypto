@@ -14,22 +14,3 @@
     "ipfs"
   ]
 }
-
-
-{
-  "require": [
-    [ "site", "ubuntu-config", "cache", "base", "deploy", "sysadmin" ],
-    [ "make", "jqq", "lang" ],
-    [ "sshd", "consul-agent", "consul-server", "etcd", "linkerd", "namerd", "fabio", "syslog-ng", "openresty", "kong", "chalice" ],
-    [ "docker", "postgresql" ],
-    [ "cicd" ],
-    [ "cloud", "imma" ],
-    [ "ansible", "chef" ],
-    [ "monitor", "crypto", "build" ],
-    [ "home", "defn", "junas", "chat", "cue", "tmux" ],
-    [ "example", "nothing", "app" ],
-    [ "ipfs", "lock", "openvpn", "zerotier", "nat", "easy-rsa", "kmsauth", "rat" ],
-    [ "ftl", "se", "haihero", "gotty", "yubikey", "cookiecutter" ],
-    [ "fogg-tf", "imma-tf" ]
-  ]
-}
