@@ -12,7 +12,8 @@
     "openvpn",
     "zerotier",
     "ipfs",
-    "vault"
+    "vault",
+    "op"
   ],
   "versions": {}
 }
