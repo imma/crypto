@@ -5,6 +5,7 @@
     "cfssl",
     "credstash",
     "getssl",
+    "certbot",
     "cryfs",
     "yubikey",
     "kmsauth",
