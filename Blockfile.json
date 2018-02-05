@@ -1,18 +1,15 @@
 {
   "require": [
     "gpg",
-    "git-crypt",
     "cfssl",
     "credstash",
     "getssl",
     "certbot",
-    "cryfs",
     "yubikey",
     "kmsauth",
     "easy-rsa",
     "openvpn",
     "zerotier",
-    "ipfs",
     "vault",
     "op"
   ],
