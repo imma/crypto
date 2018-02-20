@@ -5,6 +5,7 @@
     "credstash",
     "getssl",
     "certbot",
+    "acme",
     "yubikey",
     "kmsauth",
     "easy-rsa",
