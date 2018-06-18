@@ -2,7 +2,6 @@
   "require": [
     "gpg",
     "cfssl",
-    "credstash",
     "getssl",
     "certbot",
     "acme",
