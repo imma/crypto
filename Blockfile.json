@@ -11,7 +11,8 @@
     "openvpn",
     "zerotier",
     "vault",
-    "op"
+    "op",
+    "pass"
   ],
   "versions": {}
 }
