@@ -1,7 +1,6 @@
 {
   "require": [
     "gpg",
-    "cfssl",
     "getssl",
     "certbot",
     "acme",
